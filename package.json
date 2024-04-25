@@ -1,0 +1,21 @@
+{
+  "name": "msrputilities",
+  "version": "2.1.2",
+  "description": "created by ach1evementunl0cked",
+  "main": "index.js",
+  "author": "ach1evementunl0cked",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "cors": "^2.8.5",
+    "discord.js": "^12.5.2",
+    "discord.js-commando": "github:discordjs/Commando",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "helmet": "^4.4.1",
+    "node-fetch": "^2.6.1",
+    "path": "^0.12.7",
+    "pm2": "^4.5.6",
+    "yeoman-environment": "^3.2.0"
+  }
+}

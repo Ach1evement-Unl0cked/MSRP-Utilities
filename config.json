@@ -1,0 +1,56 @@
+{
+   "version": 1,
+   "prefix": "!",
+   "debug": true,
+   "ownerid": "1207735882321240134",
+   "status": [
+      {
+         "type": "PLAYING",
+         "msg": "Missouri State Roleplay"
+      },
+      {
+         "type": "PLAYING",
+         "msg": "Under Development"
+      }
+   ],
+   "apiKeys": {
+      "api": "Your-KEY"
+   },
+   "modmail": {
+      "guild": "1225520192579309638",
+      "enabled": true,
+      "category": "═════〔Support〕═════",
+      "rolesAllowed": [],
+      "color": 5612998,
+      "blockedUsers": [
+         ""
+      ]
+   },
+   "messages": {
+      "ticketDesc": "",
+      "newTicket": "",
+      "newTicketManual": "",
+      "closedTicket": "",
+      "blockedUserError": "You have been blacklisted from our Support System.",
+      "disabled": "The support system is currently offline.",
+      "about": "MSRP TEST!"
+   },
+   "snippets": [],
+   "role": {
+      "mod": "1224588432618164235",
+      "admin": "1224588440092282891",
+      "ia": "1224588149141798912",
+      "management": "1224588416935788635",
+      "directive": "1224588443846180874",
+      "staff": "1224789357173543133"
+   },
+   "loops": {
+      "status": true
+   },
+   "services": {
+      "uptime": true
+   },
+   "channel": {
+      "log": "1224798988155355216"
+   }
+}
